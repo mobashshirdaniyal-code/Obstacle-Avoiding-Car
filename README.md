@@ -22,7 +22,7 @@ This is a robotic car which detects obstacle if any in it's path and selects the
 
 ## HOW TO MAKE?
 This is my YouTube video's link to make :
-https:[//youtu.be/EmlVK20ULBo?si=pqz4Wyzvb2L8HyKs](https://www.youtube.com/watch?v=GEbeLKLr2jo)
+https://www.youtube.com/watch?v=GEbeLKLr2jo
 
 ## SCHEMATIC / CIRCUIT DIAGRAM
 <img src="" alt="IMAGE" width="300px">
